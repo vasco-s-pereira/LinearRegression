@@ -14,7 +14,7 @@ A custom implementation of Linear Regression “from scratch” to predict house
 - [License](#license)  
 
 ## Overview  
-This project demonstrates how Linear Regression works under the hood. It loads the Boston Housing dataset (`Boston.csv`), implements a `LinearRegressionScratch` class using both the normal equation and gradient descent, and then benchmarks it against scikit-learn’s built-in model. Performance is measured by Mean Squared Error (MSE), Mean Absolute Error (MAE), and R-Squared (R²).
+This project demonstrates how Linear Regression works under the hood. It loads the Boston Housing dataset (`Boston.csv`), implements a `LinearRegressionScratch` class, and then benchmarks it against scikit-learn’s built-in model. Performance is measured by Mean Squared Error (MSE), Mean Absolute Error (MAE), and R-Squared (R²).
 
 ## Repository Structure  
 ```
