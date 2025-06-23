@@ -76,11 +76,6 @@ LinearRegression/
    * Inspect feature distributions and correlations
 2. **Model Implementation**
 
-   * **Normal Equation**
-
-     $$
-       \theta = (X^TX)^{-1} X^T y
-     $$
    * **Gradient Descent**
 
      * Learning rate α
