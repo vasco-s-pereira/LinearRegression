@@ -40,7 +40,6 @@ LinearRegression/
    ```bash
    git clone https://github.com/vasco-s-pereira/LinearRegression.git
    cd LinearRegression
-````
 
 2. (Optional) Create and activate a virtual environment:
 
